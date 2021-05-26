@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', (event)=>{
     const audio = new Audio('./music/wish-song.mp3');
     // audio.volume = 100;
-    // audio.play();
+    audio.play();
 });
 
 var images = [
